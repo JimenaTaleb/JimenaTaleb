@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi there! I'm Jime 👋 saw you looking, come meet me!✨</h1>
 
-<!--
-**JimenaTaleb/JimenaTaleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const aboutMe = {
+   pronouns: "she" | "her",
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bulma", "Tailwind CSS", "Material UI"]
+      }
+   currentOccupation: ["student, open for job opportunities"],
+};
+```
 
-Here are some ideas to get you started:
+## Reach me
+[![Linkedin](https://img.shields.io/badge/-Jimena%20Taleb-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jimenataleb)](https://www.linkedin.com/in/jimenataleb)
+[![Mail](https://img.shields.io/badge/-jimetaleb@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=mailto:tuemail@example.com)](mailto:jimetaleb@gmail.com)
+[![Instagram](https://img.shields.io/badge/-jimetaleb-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tuusuario)](https://www.instagram.com/jimetaleb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
