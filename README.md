@@ -12,6 +12,11 @@ const aboutMe = {
    currentOccupation: ["student, open for job opportunities"],
 };
 ```
+<h3 align="center">
+  <a href="https://github.com/JimenaTaleb/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimenaTaleb&layout=pie&theme=radical" alt="Top Langs">
+  </a>
+</h3>
 
 ## Reach me
 [![Linkedin](https://img.shields.io/badge/-Jimena%20Taleb-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jimenataleb)](https://www.linkedin.com/in/jimenataleb)
