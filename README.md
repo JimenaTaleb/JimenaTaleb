@@ -8,7 +8,7 @@ const aboutMe = {
       frontEnd: {
          js: ["React"],
          css: ["Bulma", "Tailwind CSS", "Material UI"]
-      }
+      },
    currentOccupation: ["student, open for job opportunities"],
 };
 ```
